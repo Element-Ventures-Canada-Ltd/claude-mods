@@ -1,0 +1,1 @@
+{ "name": "usage-meter", "version": "0.1.0", "description": "Shows how full the chat is and whether it is warm or cold, with a one-click handoff", "types": "./types/index.d.ts" }

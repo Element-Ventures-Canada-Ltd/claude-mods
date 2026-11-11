@@ -1,0 +1,10 @@
+{
+  "name": "ev-claude-mods",
+  "owner": { "name": "Element Ventures (Canada) Ltd." },
+  "metadata": { "description": "Handling: Unclassified — working. Claude Code interface mods." },
+  "plugins": [
+    { "name": "effort-picker", "source": "./effort-picker", "description": "Picks low, default or high thinking effort for each message, and says why" },
+    { "name": "usage-meter", "source": "./usage-meter", "description": "Shows how full the chat is and whether it is warm or cold, with a one-click handoff" },
+    { "name": "cold-chat-warning", "source": "./cold-chat-warning", "description": "Holds a message sent to a cold chat so you can send anyway, start fresh or cancel" }
+  ]
+}

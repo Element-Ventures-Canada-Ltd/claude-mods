@@ -1,0 +1,1 @@
+{ "name": "cold-chat-warning", "version": "0.1.0", "description": "Holds a message sent to a cold chat so you can send anyway, start fresh or cancel", "types": "./types/index.d.ts" }

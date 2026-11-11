@@ -1,0 +1,1 @@
+{ "name": "effort-picker", "version": "0.1.0", "description": "Picks low, default or high thinking effort for each message you send, and says why", "types": "./types/index.d.ts" }
